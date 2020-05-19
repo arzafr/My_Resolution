@@ -2,3 +2,5 @@
 - make android app
 - make android and PC games
 - Make a nice and beautiful website from 0 by my own skills
+- Personal branding
+- Make Youtube channel about making games and coding
