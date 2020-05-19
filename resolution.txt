@@ -1,4 +1,4 @@
-- learn git & github
 - mastering C++ & Java
 - make android app
 - make android and PC games
+- Make a nice and beautiful website from 0 by my own skills
