@@ -1,2 +1,4 @@
 - learn git & github
 - mastering C++ & Java
+- make android app
+- make android and PC games
