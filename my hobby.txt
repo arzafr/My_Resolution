@@ -2,3 +2,4 @@
 -drawing
 -playing games
 -eat some food
+-read book
